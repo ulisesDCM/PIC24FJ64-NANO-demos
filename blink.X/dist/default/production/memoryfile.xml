@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<project>
+  <executable name="dist/default/production/blink.X.production.elf">
+    <memory name="data">
+      <units>bytes</units>
+      <length>8192</length>
+      <used>36</used>
+      <free>8156</free>
+    </memory>
+    <memory name="program">
+      <units>bytes</units>
+      <length>66816</length>
+      <used>1251</used>
+      <free>65565</free>
+    </memory>
+  </executable>
+</project>
